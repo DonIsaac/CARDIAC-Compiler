@@ -3,8 +3,8 @@ Simple assembler for the CARDIAC computer
 
 
 Example assembly program
-'''
-//**AVERAGING PROGRAM**
+
+'//**AVERAGING PROGRAM**
 //Reads a data set until it reaches a negative number
 //Then it outputs the # of items, the sum of the items and their average.
 //setup bootstrapper
@@ -87,12 +87,10 @@ DATA 044
 DATA 096
 DATA -095
 DATA 007
-DATA 001
-'''
+DATA 001'
 
 Output:
-'''
-002
+'002
 800
 020
 060
@@ -157,5 +155,4 @@ Output:
 096
 -095
 007
-001
-'''
+001'
