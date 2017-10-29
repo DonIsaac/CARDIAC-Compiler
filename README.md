@@ -1,6 +1,6 @@
 # CARDIAC-Compiler
 Simple assembler for the CARDIAC computer
-You can find the CARDIAC simulator [HERE][https://www.cs.drexel.edu/~bls96/museum/cardsim.html]
+You can find the CARDIAC simulator [HERE](https://www.cs.drexel.edu/~bls96/museum/cardsim.html)
 
 
 Example assembly program
